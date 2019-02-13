@@ -12,7 +12,7 @@ fremgangsmåde:
  
  clone til jeres egen maskine
  
- opret en img mappe og download billeder af alle planeter fra troels givenede link og lig i denne mappe
+ opret en img mappe og download billeder af alle planeter fra troels givenede link og i denne mappe
  
  i html prøv og ændre h1 og img tag for hvert article til en planet + et planet billed fra img mappen
  
